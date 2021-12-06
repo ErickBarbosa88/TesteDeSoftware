@@ -1,0 +1,35 @@
+1º Quando Testar?
+   - Niveis de Teste {
+     ╟Teste de Regressão
+     ╟Teste Beta
+     ╟Teste Alfa
+     ╟Teste De Aceitação
+     ╟ Teste De Sistemas
+     ╟Teste De Integração
+     ╟Teste De Unidade 
+   }
+
+2º Como Testar?
+   - Técnicas de Testes{
+     Caixa Branca{
+       Teste de Cobertura
+       Teste de Caminhos
+       Teste de Comandos
+       Teste de Condições
+     }
+
+     Caixa Preta{
+       Teste baseado em cenarios
+       teste baseado em casos de uso 
+       analises de valores limites
+     }
+   }
+
+   3º O que testar?
+      Tipos de Teste{
+        Teste de funcionalidade
+        Teste de interface
+        Teste de Desempenho
+        Teste de usabilidade
+        Teste de segurança
+      }

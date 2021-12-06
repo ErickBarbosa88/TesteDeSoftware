@@ -1,0 +1,11 @@
+1º Testes não verificam completamentes as saídas de um sistema, pois as entradas são infinitas.
+
+2º Testes não gaantem qualidade because: qualidade é relativa, depende da finalidade.
+
+3º Testes custam em média de 20% a 30% do custo total da elaboração do software.
+
+4º testes de Multiplataformas, testes de valores limites,
+
+########
+perfil do testador
+- Detalhista, Paciente, Focado, Motivado, Perspicaz, Criterioso

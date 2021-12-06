@@ -1,0 +1,45 @@
+1º Quando Testar?
+   - Niveis de Teste {
+     ╟Teste de Regressão
+     ╟Teste Beta
+     ╟Teste Alfa
+     ╟Teste De Aceitação
+     ╟ Teste De Sistemas
+     ╟Teste De Integração
+     ╟Teste De Unidade 
+   }
+
+   Teste de Unidade:
+
+   --Objetivo: encontrar falhas de funcionamento dentro de uma pequena
+   parte do sistema funcionando independentemente do todo
+
+   -- Feitos pelo programador
+
+   -- O alvo sao subrotinas, métodos, classes, i.e, as menores unidades do sistema
+
+   -- Geralmente é automatizado, através de ferramentas como Junit, PHPunit, XXXunit...
+
+   -- Precisa estar sempre atualizado, coerente com as regras de negócio atuais do sistema
+
+  ================================================
+
+  Exemplo {
+    import junit.framework.TestCase;
+    /**
+    *Testes de unidade para classe {@link pessoa}
+    */
+    public class Testpessoa extends TestCase {
+
+      /**
+      *Um teste de unidade para verificar se o nome está
+      *formatado corretamente
+      */
+
+      public void testObterNomeCompleto() {
+        pessoa p = new Pessoa("Fulano", "Tal");
+        assertEquals("Fulano Tal", o.getNomeCompleto());
+      }
+
+    }
+  }
