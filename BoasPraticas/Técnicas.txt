@@ -1,0 +1,42 @@
+Boas praticas
+.tecnicas
+  .Nao execute cenários roboticamente. Explore quando necessário.
+  .Achou uma falha? Detalhe ao máximo!
+  ."A caixa de mensagem não segue o padrão:"(errada)
+
+   "Após não preencher um dos campos obrigatórios no formulário
+   de cadastro de usuário, a caixa de mensagens apresentada estáem um
+   formato diferente das demais caixas de mensagens de erro no sistema"(certo)
+    -Browser: Chrome v10.2
+    -Dispositivo: Tablet Ipad 7
+    -(colocar printscreem)
+
+  .A falha foi corrigida? Reteste!(teste de regressão)
+  .Busque padrões ao reportar uma falha
+  .Ex.: verifique se o erro corrigido com um prodto esta associado 
+  apenas a tal produto ou se envolve todos os produtos de mesma categoria
+  ,cor, faixa de preço, etc
+
+Ferramentas: 
+-Proj4me
+-Jira
+-Bugzilla
+-Trac
+
+- teste sempre os valores limites, grande parte dos erros estarão lá
+  -Formulário 
+    -campo em branco
+    -campo com valor inválido
+    -quantidade de caractere
+    -e-mail inválido
+    -mensagens de erro coerentes
+
+
+-Cálculos:
+  -Valores positivos
+  -Valores negativos
+  -Zero
+  -Intervalos fechados e abertos
+  -Acima do limite máximo e abaixo do limite mínimo
+
+-O mais importante: tente pensar como um usuário pensaria

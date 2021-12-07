@@ -1,0 +1,13 @@
+Teste de Regressão
+
+-objetivo: reexecutar testes aós alterações serem realizadas nos sistema,
+para conferir se tudo continua funcionando corretamente (detectar efeitos colaterais)
+
+-Após mudanças de regras durante o desenvolviento
+  .Ex:. facebook agora permite a postagem de videos 3D na timeline
+-Após a correção de uma falha encontrada
+-Após a implementação de melhorias para lançamento de novas versões
+
+-Consiste em se aplicar, a cada nova versão do software ou a cada ciclo, todos os testes que já foram aplicados nas versões ou ciclos de teste anteriores do sistema
+
+(**-É nessa hora que testes automáticos fazem a maior diferença.)**

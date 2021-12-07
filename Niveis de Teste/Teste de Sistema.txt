@@ -1,0 +1,10 @@
+Teste de sistema
+
+-Objetivo: executar o sistema sob o ponto de vista de seu usuário final,
+varrendo as funcionalidades em busca de folhas em relação aos Objetivos originais
+
+  - Planejados e executados pela equipe de Teste
+
+  -Cenários de teste coerentes com os requisitos especificados paa o sistema
+
+  -São realizados após a codificação do sistema estar concluída

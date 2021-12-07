@@ -1,0 +1,12 @@
+Teste de Desempenho
+
+objetivo: validar o Desempenho do sistema no que diz respeito ao seu tempo de resposta
+para determinadas operações
+
+Exemplos:
+Tempo de resposta de um sistema bancário para processar uma transação
+.Tempo de resposta do facebook para fazer upload de fotos
+tempo de respostas de um robô médico para responder a comandos
+
+ferramenta: https://www.youtube.com/watch?v=IEm3UCfUn2s
+((.Jmeter))

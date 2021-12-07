@@ -1,0 +1,17 @@
+Boas práticas
+
+Não tecnicas:
+.A pessoa que especifica os cenários de teste de sistema não deve 
+estar participando da codificação do sistema  
+    .De preferência, que seja um testador especialista e não um programador
+    .A espcificação é a base para os cenários de teste
+      .O que não esta especificado, não será validado"
+  
+.Faça uma boa seleção de cenários, considerando:
+  .O tempo disponível para execução dos testes
+  .A maturidade dos testadores
+  .Lembre-se: os cenários são infinitos. Nunca haverá tempo para testar todos.
+
+
+.Seja pessimista! Cuidado para nao ignorar cenários aparentemente inocentes
+.Registre todas as falhas encontradas e acompanhe até que sejam corrigidas

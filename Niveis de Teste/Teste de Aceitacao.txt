@@ -1,0 +1,12 @@
+Teste de Aceitação
+
+ojetivo: executar o sistema sob o ponto de vista de seu usuário final,
+varrendo as funcionalidades em relação aos objetivos originais.
+
+-Planejados e executados por um grupo restrito de usuários finais do sistema, os quais
+simularão operações de rotina, de modo a verificar se su comportamento está de acordo com o 
+solicitado.
+
+-Visa permirtir ao cliente determinar se aceita ou não o sistema.
+
+-Pode incluir testes funcionais, de recuperação de falhas, de seguança e de desempenho

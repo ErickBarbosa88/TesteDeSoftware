@@ -1,0 +1,8 @@
+Teste de Segurança
+
+Objetivo: validam a proteção do sistema contra invasoes ou
+acesso nao autorizado a informações
+
+Exemplos:
+.Sites com acesso restrito
+.Tráfego de informações criptografadas

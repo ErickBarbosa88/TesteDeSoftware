@@ -1,0 +1,5 @@
+Teste dinamico 
+validar o sistema aravés de sua execução
+
+Teste estático
+através do olhar detalhado no código visualizar

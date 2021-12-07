@@ -1,0 +1,14 @@
+Teste Alfa
+
+-Objetivo: executar o sistema de forma não planejada, sob o ponto de vista 
+de seu usuário final, porém, apenas por um grupo pequeno de pessoas.
+
+-O grupo restrito de usuários qu testarão geralmente é composto por membros
+da própria organização e também do cliente
+
+-Visa identificação de possíveis erros não detectados até o momento, encon-
+trados enquanto mais usuários finais utilizam o sistema de forma natural, nao
+planejada.
+
+-Representantes do time de programadores irão acompanhar de perto estes testes
+para coletar possíveis falhas a serem corrigidas e melhorias a serem implementadas

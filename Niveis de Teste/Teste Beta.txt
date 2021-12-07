@@ -1,0 +1,15 @@
+Teste Beta
+
+-Objetivo: executar o sistema de forma nao planejada, sob o ponto de vista
+de seu usuário final, porém, por um grupo grande de pessoas
+
+-O grupo de usuários que testarão geralmente são usuários reais de desconhecidos,
+sendo de uma determinada localidade, idioma ou que satisfazem determinados
+critérios definidos pelo fornecedor do sistema.
+        -Ex: versão Beta do sistema ser lançada apenas em países cujo idioma é inglês.
+
+-Visa a identificação de possíveis erros não detectados até o momento, encontrados enquanto
+mais usuários finais utilizam o sistema de forma natuaral, não planejada.
+
+-Representantes do time de programação nao irão fazer acomanhamento e coleta de erros.
+No teste Beta, os usuários é que reportam os erros encontrados

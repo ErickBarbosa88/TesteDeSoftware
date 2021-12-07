@@ -1,0 +1,12 @@
+Teste de funcionalidade
+
+objetivo: validar que as funcionalidades do sistema estão funcionando corretamente
+
+-Envolve:
+Unidade
+Integração
+sistema
+Aceitação
+Alfa
+Beta
+Regressão

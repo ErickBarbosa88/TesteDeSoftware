@@ -1,0 +1,13 @@
+Teste de Stress
+
+Objetivo: Validam o comportamento do sistema em condições extremas
+
+.O stress no sistema pode abranger cargas de trabalho extremas, memória
+insuficiente, hadware e serviços indisponíveis ou recursos compartilhados limitados
+
+.Executados o quanto antes para se ter o tempo necessário para corrigit ou melhorar o o desempenho do sistema conforme o necessário.
+
+Exemplos:
+  .Sobrecarga de acesso a um website
+  .sobrecarga de processamento em um sistema de gestão de clientes
+    .ex:estração de relatorios grande em paralelo

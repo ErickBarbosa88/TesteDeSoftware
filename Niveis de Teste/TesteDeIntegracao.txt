@@ -1,3 +1,14 @@
 Teste de Integração
 
 Objetivo: Validar a comunicação entre os componentes de um sistema
+foca nos componentes
+
+- Feitos pelo programador
+
+-O alvo são funcionalidades que envolvem a integração de componentes
+  - Ex: um componente A invoca um método de um componente B e espera um valor
+    inteiro, porém, vem um valor decimal, causando uma falha no componente A 
+
+-Geralmente é automatizado, através de ferramentas como Junit, PHPunit, XXXUnit e outras
+
+-Podem ser feitos antes de o sistema estar concluído, à medida em que os componentes vão ficando prontos.
